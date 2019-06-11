@@ -1,1 +1,2 @@
+checkout detached head
 readme
